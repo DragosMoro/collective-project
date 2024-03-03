@@ -31,9 +31,14 @@ This project represents a collaborative endeavor involving 9 students with the g
 #### Description:
 - Users can securely create profiles and log in.
 
-#### Screenshot:
+#### Screenshots:
 
-![User Authentication](authentication_image_url_here)
+##### Log In:
+
+![Log in](https://github.com/DragosMoro/collective-project/blob/dev/application/rter-frontend/public/login.png)
+
+##### Sign Up:
+![Sign up](https://github.com/DragosMoro/collective-project/blob/dev/application/rter-frontend/public/signup.png)
 
 ### 2. Main Page
 
@@ -41,9 +46,15 @@ This project represents a collaborative endeavor involving 9 students with the g
 - Displays a comprehensive list of available NGOs, gathered through web scraping.
 - Users can mark NGOs as favorites and directly contact them for donations.
 
-#### Screenshot:
+#### Screenshots:
 
-![Main Page](main_page_image_url_here)
+##### Main Page:
+
+![Main Page](https://github.com/DragosMoro/collective-project/blob/dev/application/rter-frontend/public/dashboard.png)
+
+##### Expanded Card:
+
+![Card Page](https://github.com/DragosMoro/collective-project/blob/dev/application/rter-frontend/public/expanded.png)
 
 ### 3. Contact Page
 
@@ -52,7 +63,7 @@ This project represents a collaborative endeavor involving 9 students with the g
 
 #### Screenshot:
 
-![Contact Page](contact_page_image_url_here)
+![Contact Page](https://github.com/DragosMoro/collective-project/blob/dev/application/rter-frontend/public/contact.png)
 
 ### 4. Donation Page
 
@@ -62,31 +73,26 @@ This project represents a collaborative endeavor involving 9 students with the g
 
 #### Screenshots:
 
+##### Donate:
+
+![Donate Page](https://github.com/DragosMoro/collective-project/blob/dev/application/rter-frontend/public/donate.jpg)
+
 ##### Donate Money:
 
-![Donate Money Page](donate_money_image_url_here)
+![Donate Money Page](https://github.com/DragosMoro/collective-project/blob/dev/application/rter-frontend/public/donate-money.jpg)
 
 ##### Donate Items:
 
-![Donate Items Page](donate_items_image_url_here)
+![Donate Items Page](https://github.com/DragosMoro/collective-project/blob/dev/application/rter-frontend/public/donate-things.jpg)
 
-### 5. Transaction History
-
-#### Description:
-- Presents a detailed overview of all transactions and donations made.
-
-#### Screenshot:
-
-![Transaction History](transaction_history_image_url_here)
-
-### 6. Edit Profile
+### 5. Edit Profile
 
 #### Description:
 - Allows users to modify their profile information.
 
 #### Screenshot:
 
-![Edit Profile](edit_profile_image_url_here)
+![Edit Profile](https://github.com/DragosMoro/collective-project/blob/dev/application/rter-frontend/public/edit.png)
 
 
 # Architecture
